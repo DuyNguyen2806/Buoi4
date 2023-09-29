@@ -1,0 +1,17 @@
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\bin\Debug\QLSV.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\bin\Debug\QLSV.pdb
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\obj\Debug\QLSV.Form1.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\obj\Debug\QLSV.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\obj\Debug\QLSV.pdb
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\bin\Debug\EntityFramework.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\bin\Debug\EntityFramework.xml
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\obj\Debug\QLSV.frmFalcuty.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QLSV\obj\Debug\QLSV.frmTimKiem.resources

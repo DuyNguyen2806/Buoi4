@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLSV", "QLSV.csproj", "{E618175D-DB20-4EE0-B145-861A6289619A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLySP", "..\QuanLySP\QuanLySP.csproj", "{1BBAD5A7-1A85-4656-B135-821623FA92EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E618175D-DB20-4EE0-B145-861A6289619A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E618175D-DB20-4EE0-B145-861A6289619A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E618175D-DB20-4EE0-B145-861A6289619A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E618175D-DB20-4EE0-B145-861A6289619A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBAD5A7-1A85-4656-B135-821623FA92EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBAD5A7-1A85-4656-B135-821623FA92EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBAD5A7-1A85-4656-B135-821623FA92EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBAD5A7-1A85-4656-B135-821623FA92EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {896CAAEC-4AEB-4412-BFF8-C9F5E8405553}
+	EndGlobalSection
+EndGlobal

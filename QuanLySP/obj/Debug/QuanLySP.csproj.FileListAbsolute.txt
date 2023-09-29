@@ -1,0 +1,15 @@
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QuanLySP\bin\Debug\QuanLySP.exe.config
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QuanLySP\bin\Debug\QuanLySP.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QuanLySP\bin\Debug\QuanLySP.pdb
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QuanLySP\bin\Debug\EntityFramework.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QuanLySP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QuanLySP\bin\Debug\EntityFramework.xml
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QuanLySP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QuanLySP\obj\Debug\QuanLySP.csproj.AssemblyReference.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QuanLySP\obj\Debug\QuanLySP.Form1.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QuanLySP\obj\Debug\QuanLySP.Properties.Resources.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QuanLySP\obj\Debug\QuanLySP.csproj.GenerateResource.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QuanLySP\obj\Debug\QuanLySP.csproj.CoreCompileInputs.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QuanLySP\obj\Debug\QuanLySP.csproj.CopyComplete
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QuanLySP\obj\Debug\QuanLySP.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\Buoi4\QuanLySP\obj\Debug\QuanLySP.pdb
